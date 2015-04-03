@@ -29,7 +29,6 @@ class Car
       puts "BZZT.. nice try Bro."
     end
   end
-
 end
 
 my_car = Car.new("red")
